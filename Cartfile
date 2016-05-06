@@ -1,0 +1,8 @@
+# RxSwift
+github "ReactiveX/RxSwift" ~> 2.0
+
+# Alamofire
+github "Alamofire/Alamofire" == 2.0
+
+# RxAlamofire
+github "RxSwiftCommunity/RxAlamofire" "master"
